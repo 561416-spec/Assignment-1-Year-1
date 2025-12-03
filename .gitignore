@@ -1,0 +1,38 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+obj/
+Build/
+Builds/
+
+# User-specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package Manager folder (can include large files)
+[Pp]ackages/manifest.json
+[Pp]ackages/PackageCache/
+
+# Log files
+*.log
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# macOS Finder folder attributes
+.AppleDouble
+.LSOverride
+
+# Unity's cache directory for assets
+UnityCache/
+
+# Other temporary files
+*.swp
+*.swo
