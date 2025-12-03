@@ -1,0 +1,15 @@
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\bin\Debug\net8.0\Triangle Practise.exe
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\bin\Debug\net8.0\Triangle Practise.deps.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\bin\Debug\net8.0\Triangle Practise.runtimeconfig.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\bin\Debug\net8.0\Triangle Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\bin\Debug\net8.0\Triangle Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.sourcelink.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\refint\Triangle Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\Triangle Practise.genruntimeconfig.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Triangle Practise\Triangle Practise\obj\Debug\net8.0\ref\Triangle Practise.dll

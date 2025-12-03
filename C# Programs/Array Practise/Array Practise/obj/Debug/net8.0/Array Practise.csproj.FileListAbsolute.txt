@@ -1,0 +1,15 @@
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\bin\Debug\net8.0\Array Practise.exe
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\bin\Debug\net8.0\Array Practise.deps.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\bin\Debug\net8.0\Array Practise.runtimeconfig.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\bin\Debug\net8.0\Array Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\bin\Debug\net8.0\Array Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.sourcelink.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\refint\Array Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\Array Practise.genruntimeconfig.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Array Practise\Array Practise\obj\Debug\net8.0\ref\Array Practise.dll

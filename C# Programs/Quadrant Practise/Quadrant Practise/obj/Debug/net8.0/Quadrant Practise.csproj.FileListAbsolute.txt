@@ -1,0 +1,15 @@
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\bin\Debug\net8.0\Quadrant Practise.exe
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\bin\Debug\net8.0\Quadrant Practise.deps.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\bin\Debug\net8.0\Quadrant Practise.runtimeconfig.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\bin\Debug\net8.0\Quadrant Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\bin\Debug\net8.0\Quadrant Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.sourcelink.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\refint\Quadrant Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\Quadrant Practise.genruntimeconfig.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Quadrant Practise\Quadrant Practise\obj\Debug\net8.0\ref\Quadrant Practise.dll

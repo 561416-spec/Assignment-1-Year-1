@@ -1,0 +1,15 @@
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\bin\Release\net8.0\RPG Game.exe
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\bin\Release\net8.0\RPG Game.deps.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\bin\Release\net8.0\RPG Game.runtimeconfig.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\bin\Release\net8.0\RPG Game.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\bin\Release\net8.0\RPG Game.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.sourcelink.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\refint\RPG Game.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\RPG Game.genruntimeconfig.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\RPG Game\RPG Game\obj\Release\net8.0\ref\RPG Game.dll

@@ -1,0 +1,15 @@
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.sourcelink.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\bin\Debug\net8.0\Enum Practise.exe
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\bin\Debug\net8.0\Enum Practise.deps.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\bin\Debug\net8.0\Enum Practise.runtimeconfig.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\bin\Debug\net8.0\Enum Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\bin\Debug\net8.0\Enum Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\refint\Enum Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\Enum Practise.genruntimeconfig.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Enum Practise\Enum Practise\obj\Debug\net8.0\ref\Enum Practise.dll

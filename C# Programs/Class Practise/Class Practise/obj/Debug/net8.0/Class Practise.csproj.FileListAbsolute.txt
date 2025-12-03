@@ -1,0 +1,23 @@
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.AssemblyInfoInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.AssemblyInfo.cs
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.csproj.CoreCompileInputs.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.sourcelink.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\bin\Debug\net8.0\Class Practise.exe
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\bin\Debug\net8.0\Class Practise.deps.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\bin\Debug\net8.0\Class Practise.runtimeconfig.json
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\bin\Debug\net8.0\Class Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\bin\Debug\net8.0\Class Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\refint\Class Practise.dll
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.pdb
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\Class Practise.genruntimeconfig.cache
+C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Visual Studio Projects\VS-Projects\Class Practise\Class Practise\obj\Debug\net8.0\ref\Class Practise.dll
