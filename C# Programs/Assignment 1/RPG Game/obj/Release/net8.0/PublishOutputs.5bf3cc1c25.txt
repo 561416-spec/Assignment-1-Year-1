@@ -1,5 +1,0 @@
-C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Builds for VS\RPG Game.exe
-C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Builds for VS\RPG Game.dll
-C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Builds for VS\RPG Game.deps.json
-C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Builds for VS\RPG Game.runtimeconfig.json
-C:\Users\561416\OneDrive - eastsussexcollegegroup\Documents\Builds for VS\RPG Game.pdb
