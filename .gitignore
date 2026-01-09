@@ -4,6 +4,8 @@
 obj/
 Build/
 Builds/
+# Ignore the build profile folder (e.g., the BuildSettings)
+BuildSettings/
 
 # User-specific files
 .vscode/
@@ -13,9 +15,12 @@ Builds/
 .DS_Store
 Thumbs.db
 
-# Package Manager folder (can include large files)
+# Unity package manager files (large caches and manifests)
 [Pp]ackages/manifest.json
 [Pp]ackages/PackageCache/
+
+# Unity's cache directory for assets
+UnityCache/
 
 # Log files
 *.log
@@ -30,9 +35,52 @@ Thumbs.db
 .AppleDouble
 .LSOverride
 
-# Unity's cache directory for assets
-UnityCache/
-
-# Other temporary files
+# Temporary files from Unity, Blender, and others
 *.swp
 *.swo
+
+# Blender's temporary files
+.blender/
+
+# Visual Studio Code settings files (shouldn’t be uploaded unless needed)
+.vscode/
+
+# JetBrains IDE files (e.g., Rider, PhpStorm, etc.)
+.idea/
+
+# User-specific Visual Studio files
+.vs/
+.vs2019/
+.vs2017/
+
+# User-specific Visual Studio project files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Unity-specific editor settings (won't affect gameplay, just project settings)
+*.csproj
+*.sln
+*.suo
+*.tmp
+
+# Rider specific files (for users of JetBrains Rider)
+.idea/
+
+# MacOS specific files
+.AppleDouble
+.LSOverride
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Ignore directories related to build systems
+[Bb]uild/
+[Bb]uilds/
+
+# Additional Unity cache, generated files, or directories
+MemoryCaptures/
